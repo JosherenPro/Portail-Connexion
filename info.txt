@@ -1,0 +1,2 @@
+Name:ok	|password:ok
+Name:ala	|password:ala
